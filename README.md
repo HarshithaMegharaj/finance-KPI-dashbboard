@@ -19,5 +19,5 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
 
 ## Contact
 If you have any questions or need further details, feel free to reach out:
-- [Your LinkedIn Profile](https://www.linkedin.com/in/harshithamegharaj/))
+- [Your LinkedIn Profile](https://www.linkedin.com/in/harshithamegharaj/)
 - [Your Email Address](mailto:megharajharshitha@gmail.com)
